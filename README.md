@@ -1,139 +1,122 @@
-# MT5 Nusantara EA Trade
-### Advanced Algorithmic Trading System
-#### by Sandri Kun
-
----
+<p align="center">
+  <h1 align="center">MT5 Nusantara EA Trade</h1>
+  <h3 align="center">Advanced Algorithmic Trading System</h3>
+  <p align="center"><b>by Sandri Kun</b></p>
+</p>
 
 <p align="center">
-  <b>Precision. Discipline. Consistency.</b><br>
-  Engineered for traders who value structure, performance, and long-term growth.
+  <img src="https://img.shields.io/badge/Platform-MetaTrader%205-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Type-Expert%20Advisor-darkgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Strategy-Algorithmic%20Trading-darkblue?style=for-the-badge"/>
 </p>
 
 ---
 
-## Overview
+<p align="center">
+  <i>Precision • Discipline • Consistency</i><br>
+  Engineered for structured performance and long-term capital growth.
+</p>
 
-**MT5 Nusantara EA Trade** is a professionally engineered Expert Advisor designed for MetaTrader 5.  
-Built with a structured algorithmic framework, it aims to deliver disciplined execution, controlled risk exposure, and consistent performance over time.
+---
 
-This system is not based on hype.  
+## ▌Overview
+
+**MT5 Nusantara EA Trade** is a professionally engineered Expert Advisor built for MetaTrader 5.  
+Designed with a structured algorithmic framework, it focuses on disciplined execution, controlled exposure, and sustainable performance.
+
+This system is not built on speculation.  
 It is built on logic, probability, and structured market behavior.
 
 ---
 
-## Vision
-
-To establish a globally recognized algorithmic trading brand originating from Indonesia — delivering transparency, measurable performance, and long-term sustainability.
-
----
-
-## Core Philosophy
+## ▌Philosophy
 
 > Strong systems outperform emotional decisions.
 
-MT5 Nusantara EA Trade is developed to:
+The foundation of MT5 Nusantara EA Trade:
 
-- Eliminate emotional interference  
-- Maximize high-probability trade setups  
-- Maintain disciplined risk management  
-- Adapt to market volatility  
-- Sustain long-term capital growth  
-
-Consistency is the priority.  
-Risk control is the foundation.
+- Structured market logic  
+- Controlled risk exposure  
+- Adaptive trade management  
+- Long-term performance sustainability  
+- Consistency over short-term excitement  
 
 ---
 
-## Key Features
+## ▌Core Features
 
-- Fully Automated Trading (MetaTrader 5)
-- Structured Entry Logic Based on Market Conditions
+- Fully Automated Trading (MT5)
+- Structured Entry & Exit Logic
 - Integrated Risk Management Engine
-- Dynamic Stop Loss & Take Profit Mechanism
-- Spread and Volatility Filtering
-- Optimized for Scalping & Intraday Strategies
-- High-Speed Execution Compatibility
-- Designed for XAUUSD & Major Forex Pairs
+- Dynamic Stop Loss & Take Profit
+- Volatility & Spread Filtering
+- Optimized for Scalping & Intraday
+- High-Speed Execution Ready
+- Compatible with XAUUSD & Major Pairs
 
 ---
 
-## Strategy Framework
+## ▌Strategy Architecture
 
 The system integrates:
 
-- Market structure analysis  
-- Momentum validation  
-- Volatility-based trade filtering  
-- Adaptive exit management  
-- Risk-adjusted position sizing  
+- Market Structure Analysis  
+- Momentum Confirmation  
+- Volatility-Based Filtering  
+- Adaptive Position Management  
+- Risk-Adjusted Lot Sizing  
 
-The objective is to maintain equilibrium between opportunity capture and capital protection.
-
----
-
-## Designed For
-
-- Professional traders seeking automation  
-- Investors diversifying trading strategies  
-- Scalpers focused on precision execution  
-- Traders prioritizing structured risk control  
-- Accounts ranging from small capital to professional scale  
+Designed to maintain balance between opportunity capture and capital preservation.
 
 ---
 
-## Risk Disclosure
+## ▌Risk Disclosure
 
-Trading Forex and CFD instruments involves substantial risk and may not be suitable for all investors.
+Trading Forex and CFDs involves substantial risk.
 
-There is no trading system that guarantees profit under all market conditions.
-
+No algorithm guarantees profit under all market conditions.  
 Backtesting and forward testing are strongly recommended before live deployment.
 
-MT5 Nusantara EA Trade is designed to improve probability — not to promise certainty.
+MT5 Nusantara EA Trade enhances probability — not certainty.
 
 ---
 
-## Development Roadmap
+## ▌Development Roadmap
 
-- Core Algorithm Development  
-- Risk Engine Integration  
+- Algorithm Core Development  
+- Risk Engine Implementation  
 - Strategy Optimization  
 - Public Forward Testing  
-- Official Performance Publication  
+- Performance Publication  
 - Multi-Strategy Expansion  
-- Global Market Outreach  
 
 ---
 
-## Official Community
-
-Stay connected for official updates, announcements, and discussions.
+## ▌Official Community
 
 <p align="center">
 
 <a href="https://t.me/yourchannel">
-  <img src="https://img.shields.io/badge/Telegram-Official%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Telegram-Official%20Channel-1F1F1F?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://t.me/yourgroup">
-  <img src="https://img.shields.io/badge/Telegram-Discussion%20Group-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Telegram-Discussion%20Group-0A66C2?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-## Contact & Licensing
+## ▌Contact & Licensing
 
-For licensing inquiries, partnerships, or further information:
-
-**Brand:** MT5 Nusantara EA Trade  
-**Founder:** Sandri Kun  
+**Brand**: MT5 Nusantara EA Trade  
+**Founder**: Sandri Kun  
 
 ---
 
 <p align="center">
-Built in Indonesia. Designed for the Global Market.
+  Built in Indonesia • Designed for the Global Market
 </p>
