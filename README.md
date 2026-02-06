@@ -10,6 +10,16 @@
   <img src="https://img.shields.io/badge/Strategy-Algorithmic%20Trading-darkblue?style=for-the-badge"/>
 </p>
 
+<p align="center">
+  <a href="https://t.me/yourchannel">
+    <img src="https://img.shields.io/badge/Join-Official%20Channel-1F1F1F?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/yourgroup">
+    <img src="https://img.shields.io/badge/Join-Discussion%20Group-0A66C2?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 <p align="center">
@@ -89,24 +99,6 @@ MT5 Nusantara EA Trade enhances probability — not certainty.
 - Public Forward Testing  
 - Performance Publication  
 - Multi-Strategy Expansion  
-
----
-
-## ▌Official Community
-
-<p align="center">
-
-<a href="https://t.me/yourchannel">
-  <img src="https://img.shields.io/badge/Telegram-Official%20Channel-1F1F1F?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://t.me/yourgroup">
-  <img src="https://img.shields.io/badge/Telegram-Discussion%20Group-0A66C2?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
